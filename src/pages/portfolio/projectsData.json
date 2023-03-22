@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Pocket Guard",
+    "image": "./projectImages/pocket.png",
+    "description": "Pocket Guard is a personal finance app that helps individuals to manage their finances and reach their saving goals. With Pocket Guard, users can track their expenses and monitor their budget in real-time.",
+    "technologies": "Kotlin | Android Studio",
+    "github": "https://github.com/GayashanDeshapriya/PocketGuard_MobileApp.git",
+    "deployed": "https://norrinradd8.github.io/bike_buddy/",
+    "bgcolor": "#232323",
+    
+    "id": "1"
+  },
+  {
+    "title": "Weather",
+    "image": "./projectImages/weather.png",
+    "technologies": "jQuery | HTML | CSS",
+    "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access. It also has a dark/light theme that changes the look of the page based on day or night in the searched location and uses the geolocation API to automatically determine the user's current location and display the weather.",
+    "github": "https://github.com/mdyeates/weather-app",
+    "deployed": "https://mdyeates.github.io/weather-app/",
+    "bgcolor": "#232323",
+    "id": "2"
+  }
+  
+  
+]
